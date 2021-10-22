@@ -14,6 +14,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class AdapterActivity extends AppCompatActivity {
+//나는 깃에 올리려고 내용 수정중이야..!!!
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
